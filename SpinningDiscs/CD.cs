@@ -1,7 +1,7 @@
 ﻿using System;
 namespace SpinningDiscs
 {
-    public class CD
+    public class CD : BaseDisc , IOpticalDisc
     {
         // TODO: Implement your custom interface.
 
